@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-cell Quiz</title>
+    <link rel="stylesheet" href="style-quiz.css">
+</head>
+<body>
+    <header><h2>Quiz</h2></header>
+    <div class="qanda">
+             <div class="q">
+                
+            </div>
+            <div class="a">
+                <a class="options" id="1" href="#" onclick="formatthis(this.id)"> Option 1 </a>
+                <a class="options" id="2" href="#" onclick="formatthis(this.id)"> Option 2 </a>
+                <a class="options" id="3" href="#" onclick="formatthis(this.id)"> Option 3 </a>
+                <a class="options" id="4" href="#" onclick="formatthis(this.id)"> Option 4 </a>
+            </div>
+            <div class="bottom-foot">
+                <div><a href="#" class="prev-butt bottom-butts" onclick="prevq()">Prev</a></div>
+                <div><a href="#" class="next-butt bottom-butts" onclick="nextq()">Next</a></div>
+            </div>
+            <div class="start-page" >
+                <h2>Welcome to the E-cell Quiz!</h2>
+                 <p>
+                      This quiz is aimed at testing your knowledge about the Entrepreneurship cell IIT KGP which you as a part of it should be well aquainted with.
+                 </p>
+                   <a href="#" class="to-be-disabled" onclick="Instructions()"> Proceed </a>
+            </div>
+            <div class="instructions">
+                <h2>
+                    Instructions
+                </h2>
+                <ul>
+                    <li>
+                       <div>There is no time Limit for the test. So take your time to attempt each question.</div>
+                    </li>
+                    <li>
+                        <div>Avoid silly mistakes.</div> 
+                    </li>
+                    <li>
+                       <div>Free navigation is permitted you can view a question and may answer it later.</div> 
+                    </li>
+                    <li>
+                       <div>This is not as tough as JEE so chill.</div> 
+                    </li>
+                    <li>
+                       <div>Avoid using cheatsheet or google coz u wont find answers there.</div> 
+                    </li>
+                    <li>
+                       <div>Even if you fail that is not a big deal.</div> 
+                    </li>
+
+                </ul>
+            </div>
+            <div class="Result">
+                <h2>
+                    Results
+                </h2>
+                <div class="out-of-oval">
+                <div class="oval">
+                <span class="marks-obtained"></span>
+                <div class="tot-mar">
+                    10
+                </div>
+               </div>
+              </div>
+              Made By: Harsh Wasnik <br>
+              GES Intern E-cell <br>
+              #reopencapus #reopen_iitkgp
+              <br>
+            </div>
+            
+            
+    </div>
+    <footer>
+    <div class="bottom-most-foot">
+        <div class="confirmation">
+            
+                <input type="checkbox" required name="tc" onclick="checkifticked()" id="inst"> I have read all the instructions and am ready to begin the test
+                <a href="#" id="start-butt" onclick="displayFirstque()">Start</a>
+        </div>
+    </div>
+</footer>
+    <script src="quizjs.js"></script>
+</body>
+</html>

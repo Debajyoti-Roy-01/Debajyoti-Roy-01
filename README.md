@@ -1,13 +1,16 @@
 ### Hi there 👋
-
-- 👨‍🎓 I study at IIT Kharagpur with my specialization in Artificial Intelligence (dual degree).
-- 🌱 I’m currently learning fastapi , aws , Fine tuning aspects of the Language Models,
-Information Retrieval with the taste of LLMs [RAG].
-- 💬 Ask me about anything realted to Web Development or Coding or GenAI .
+AI Engineer | Backend Developer | Exploring LLM Systems & Scalable AI Applications
+- 💼 Data Scientist at Bandhan Bank
+- 💻 Former Backend Engineering Intern at Syncmof
+- 🎓 Dual Degree student at IIT Kharagpur specializing in Artificial Intelligence
+- 🌱 Currently exploring:
+  - FastAPI
+  - AWS
+  - Fine-tuning Large Language Models
+  - Information Retrieval and RAG systems
 - 📫 How to reach me: [LinkedIn](https://github.com/Debajyoti-Roy-01/) | [Instagram](https://www.instagram.com/devilingalaxy_01/) | [Email](roydebajyoti183@gmail.com)
 
 - 😄 Pronouns: He/ His
-- ⚡ Fun fact: I am a very moody person
 
 ![Debajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debajyoti-Roy-01&show_icons=true&theme=gruvbox)
 
